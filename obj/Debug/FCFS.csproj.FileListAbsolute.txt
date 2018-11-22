@@ -1,0 +1,10 @@
+E:\repos\sssss\FCFS-master\bin\Debug\FCFS.exe.config
+E:\repos\sssss\FCFS-master\bin\Debug\FCFS.exe
+E:\repos\sssss\FCFS-master\bin\Debug\FCFS.pdb
+E:\repos\sssss\FCFS-master\obj\Debug\FCFS.csprojAssemblyReference.cache
+E:\repos\sssss\FCFS-master\obj\Debug\FCFS.Main.resources
+E:\repos\sssss\FCFS-master\obj\Debug\FCFS.Properties.Resources.resources
+E:\repos\sssss\FCFS-master\obj\Debug\FCFS.csproj.GenerateResource.cache
+E:\repos\sssss\FCFS-master\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+E:\repos\sssss\FCFS-master\obj\Debug\FCFS.exe
+E:\repos\sssss\FCFS-master\obj\Debug\FCFS.pdb
